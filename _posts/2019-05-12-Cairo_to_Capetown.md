@@ -11,8 +11,7 @@ author: Mike Mossing
 
 Adventure #3. As retirement approached my Daughter Cary bought me the [Lonely Planet's Epic Bike Rides of the World](https://shop.lonelyplanet.com/products/epic-bike-rides-of-the-world).  A series of unlikely events convinced me that the improbably challenging trip from Cairo to Capetown was the one for me. Unfortunately this expedition was interrupted due to an injury for a few weeks. I was able to return to the tour at Victoria Falls to finish in Capetown.
 
-I documented the trip on Strava. Here are links to individual strava activities with a few highlight photos. First and Last stages.
-
+I documented the trip on Strava. Here are links to individual strava activities with a few highlight photos. 
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2084161081" data-style="standard"></div>
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2084620059" data-style="standard"></div>
@@ -42,6 +41,16 @@ I documented the trip on Strava. Here are links to individual strava activities 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2169050144" data-style="standard"></div>
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2174237300" data-style="standard"></div>
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2176373809" data-style="standard"></div>
+
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2182901967" data-style="standard"></div>
+
+- Yikes! Broken Collarbone.  
+	- Drive to Nairobi. 
+	- Fly back to US for surgery. 
+	- Heal for 4 weeks
+	- Return to Livingstone Zambia to resume the tour!
+
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2289173536" data-style="standard"></div>
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2294045952" data-style="standard"></div>
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2300720244" data-style="standard"></div>
