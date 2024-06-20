@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: 
 ---
 
 My name is Mike Mossing,  I'm heading out for a new adventure soon riding my bike down the west coast of South America from Cartagena to Ushuaia [South American Epic | Cross-continent South America bike tour | TDA Global Cycling](https://tdaglobalcycling.com/south-american-epic).
