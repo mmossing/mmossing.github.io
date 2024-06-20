@@ -13,9 +13,6 @@ Adventure #3. As retirement approached my Daughter Cary bought me the [Lonely Pl
 
 I documented the trip on Strava. Here are links to individual strava activities with a few highlight photos. First and Last stages.
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2084161081" data-style="standard"></div><script 
-        
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2084620059" data-style="standard"></div><script 
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2084161081" data-style="standard"></div>
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="2084620059" data-style="standard"></div>

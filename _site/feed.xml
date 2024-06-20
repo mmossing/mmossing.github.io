@@ -10,14 +10,14 @@
     
     
       <item>
-        <title>Sample blog post to learn markdown tips</title>
+        <title>Tour D&apos;Afrique</title>
         <description>
-          There&apos;s lots to learn! - 
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/tables/etc.I also encourage you to look at the code that created this post to learn some more advanced tips about...
+          Cairo to Capetown - 
+          Adventure #3. As retirement approached my Daughter Cary bought me the Lonely Planet’s Epic Bike Rides of the World. A series of unlikely events convinced me that the improbably challenging trip from Cairo to Capetown was the one for me. Unfortunately this expedition was interrupted due to an injury for a few weeks. I was able to return to the...
         </description>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020-02-28-sample-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-28-sample-markdown/</guid>
+        <pubDate>Sun, 12 May 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019-05-12-Cairo_to_Capetown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-05-12-Cairo_to_Capetown/</guid>
       </item>
     
       <item>
