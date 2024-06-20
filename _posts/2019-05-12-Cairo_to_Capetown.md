@@ -2,9 +2,9 @@
 layout: post
 title: Tour D'Afrique 
 subtitle: Cairo to Capetown
-cover-img: /assets/img/camino_ray_of_sunshine.jpg
+cover-img: /assets/img/sudan-crossing-to-ethiopia.jpg
 # thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/camino_ray_of_sunshine.jpg
+share-img: /assets/img/sudan-crossing-to-ethiopia.jpg
 tags: [books, test]
 author: Mike Mossing
 ---
